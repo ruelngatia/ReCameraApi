@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReCameraApi</string>
+    <string name="camera_button">Camera_button</string>
+</resources>
